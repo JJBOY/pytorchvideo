@@ -49,7 +49,7 @@ setup(
     author="Facebook AI",
     url="https://github.com/facebookresearch/pytorchvideo",
     description="A video understanding deep learning library.",
-    python_requires=">=3.7",
+    python_requires=">=3.6",
     install_requires=[
         "fvcore>=0.1.4",
         "av",
